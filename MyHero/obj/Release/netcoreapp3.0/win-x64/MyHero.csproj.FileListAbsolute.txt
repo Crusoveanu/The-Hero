@@ -1,0 +1,12 @@
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\bin\Release\netcoreapp3.0\win-x64\MyHero.exe
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\bin\Release\netcoreapp3.0\win-x64\MyHero.deps.json
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\bin\Release\netcoreapp3.0\win-x64\MyHero.runtimeconfig.json
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\bin\Release\netcoreapp3.0\win-x64\MyHero.runtimeconfig.dev.json
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\bin\Release\netcoreapp3.0\win-x64\MyHero.dll
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\bin\Release\netcoreapp3.0\win-x64\MyHero.pdb
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\obj\Release\netcoreapp3.0\win-x64\MyHero.AssemblyInfoInputs.cache
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\obj\Release\netcoreapp3.0\win-x64\MyHero.AssemblyInfo.cs
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\obj\Release\netcoreapp3.0\win-x64\MyHero.csproj.CoreCompileInputs.cache
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\obj\Release\netcoreapp3.0\win-x64\MyHero.dll
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\obj\Release\netcoreapp3.0\win-x64\MyHero.pdb
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\obj\Release\netcoreapp3.0\win-x64\MyHero.genruntimeconfig.cache

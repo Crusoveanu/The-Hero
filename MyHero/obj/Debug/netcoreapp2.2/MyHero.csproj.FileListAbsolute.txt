@@ -1,0 +1,12 @@
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\obj\Debug\netcoreapp2.2\MyHero.csprojAssemblyReference.cache
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\obj\Debug\netcoreapp2.2\MyHero.AssemblyInfoInputs.cache
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\obj\Debug\netcoreapp2.2\MyHero.AssemblyInfo.cs
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\obj\Debug\netcoreapp2.2\MyHero.csproj.CoreCompileInputs.cache
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\bin\Debug\netcoreapp2.2\MyHero.deps.json
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\bin\Debug\netcoreapp2.2\MyHero.runtimeconfig.json
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\bin\Debug\netcoreapp2.2\MyHero.runtimeconfig.dev.json
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\bin\Debug\netcoreapp2.2\MyHero.dll
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\bin\Debug\netcoreapp2.2\MyHero.pdb
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\obj\Debug\netcoreapp2.2\MyHero.dll
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\obj\Debug\netcoreapp2.2\MyHero.pdb
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero\obj\Debug\netcoreapp2.2\MyHero.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\bin\Debug\netcoreapp3.1\MyHero.exe
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\bin\Debug\netcoreapp3.1\MyHero.Tests.deps.json
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\bin\Debug\netcoreapp3.1\MyHero.Tests.runtimeconfig.json
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\bin\Debug\netcoreapp3.1\MyHero.Tests.runtimeconfig.dev.json
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\bin\Debug\netcoreapp3.1\MyHero.Tests.dll
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\bin\Debug\netcoreapp3.1\MyHero.Tests.pdb
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\bin\Debug\netcoreapp3.1\MyHero.dll
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\bin\Debug\netcoreapp3.1\MyHero.pdb
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\obj\Debug\netcoreapp3.1\MyHero.Tests.csprojAssemblyReference.cache
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\obj\Debug\netcoreapp3.1\MyHero.Tests.AssemblyInfoInputs.cache
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\obj\Debug\netcoreapp3.1\MyHero.Tests.AssemblyInfo.cs
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\obj\Debug\netcoreapp3.1\MyHero.Tests.csproj.CoreCompileInputs.cache
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\obj\Debug\netcoreapp3.1\MyHero.Tests.csproj.CopyComplete
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\obj\Debug\netcoreapp3.1\MyHero.Tests.dll
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\obj\Debug\netcoreapp3.1\MyHero.Tests.pdb
+C:\Users\crusomi001\Desktop\Daily work\Train\MyHero\MyHero\MyHero.Tests\obj\Debug\netcoreapp3.1\MyHero.Tests.genruntimeconfig.cache
